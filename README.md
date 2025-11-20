@@ -88,4 +88,4 @@ python bio.py
 Feel free to reach out if you have any questions or feedback.
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/MUSIC_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Yewsdhi/Biomute_link)
